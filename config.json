@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersrocess",
+        "uuid": 1910876,
+        "checksum": "rucn8g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
